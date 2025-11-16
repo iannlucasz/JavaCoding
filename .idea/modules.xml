@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcularAB/CalcularAB.iml" filepath="$PROJECT_DIR$/CalcularAB/CalcularAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularFerraduras/CalcularFerraduras.iml" filepath="$PROJECT_DIR$/CalcularFerraduras/CalcularFerraduras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularFrequencia/CalcularFrequencia.iml" filepath="$PROJECT_DIR$/CalcularFrequencia/CalcularFrequencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularLitrosGasolina/CalcularLitrosGasolina.iml" filepath="$PROJECT_DIR$/CalcularLitrosGasolina/CalcularLitrosGasolina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularMedia/CalcularMedia.iml" filepath="$PROJECT_DIR$/CalcularMedia/CalcularMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularSalarioImposto/CalcularSalarioImposto.iml" filepath="$PROJECT_DIR$/CalcularSalarioImposto/CalcularSalarioImposto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularSalarioTotall/CalcularSalarioTotall.iml" filepath="$PROJECT_DIR$/CalcularSalarioTotall/CalcularSalarioTotall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularSaldo/CalcularSaldo.iml" filepath="$PROJECT_DIR$/CalcularSaldo/CalcularSaldo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DescontoProduto/DescontoProduto.iml" filepath="$PROJECT_DIR$/DescontoProduto/DescontoProduto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoisValoresMaior/DoisValoresMaior.iml" filepath="$PROJECT_DIR$/DoisValoresMaior/DoisValoresMaior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios-Fixacao.iml" filepath="$PROJECT_DIR$/Exercicios-Fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FuncaoDobro/FuncaoDobro.iml" filepath="$PROJECT_DIR$/FuncaoDobro/FuncaoDobro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcedimentoMensagemInicial/ProcedimentoMensagemInicial.iml" filepath="$PROJECT_DIR$/ProcedimentoMensagemInicial/ProcedimentoMensagemInicial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcedimentoMostrarTabuada/ProcedimentoMostrarTabuada.iml" filepath="$PROJECT_DIR$/ProcedimentoMostrarTabuada/ProcedimentoMostrarTabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerificarAprovacaoNota/VerificarAprovacaoNota.iml" filepath="$PROJECT_DIR$/VerificarAprovacaoNota/VerificarAprovacaoNota.iml" />
+    </modules>
+  </component>
+</project>
