@@ -12,10 +12,14 @@
       <module fileurl="file://$PROJECT_DIR$/CalcularSaldo/CalcularSaldo.iml" filepath="$PROJECT_DIR$/CalcularSaldo/CalcularSaldo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DescontoProduto/DescontoProduto.iml" filepath="$PROJECT_DIR$/DescontoProduto/DescontoProduto.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoisValoresMaior/DoisValoresMaior.iml" filepath="$PROJECT_DIR$/DoisValoresMaior/DoisValoresMaior.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercicios-Fixacao.iml" filepath="$PROJECT_DIR$/Exercicios-Fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FuncaoCalcularIR/FuncaoCalcularIR.iml" filepath="$PROJECT_DIR$/FuncaoCalcularIR/FuncaoCalcularIR.iml" />
       <module fileurl="file://$PROJECT_DIR$/FuncaoDobro/FuncaoDobro.iml" filepath="$PROJECT_DIR$/FuncaoDobro/FuncaoDobro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCoding.iml" filepath="$PROJECT_DIR$/JavaCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LerNomeVetores/LerNomeVetores.iml" filepath="$PROJECT_DIR$/LerNomeVetores/LerNomeVetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProcedimentoMensagemInicial/ProcedimentoMensagemInicial.iml" filepath="$PROJECT_DIR$/ProcedimentoMensagemInicial/ProcedimentoMensagemInicial.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProcedimentoMostrarTabuada/ProcedimentoMostrarTabuada.iml" filepath="$PROJECT_DIR$/ProcedimentoMostrarTabuada/ProcedimentoMostrarTabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValoresDecrescentes/ValoresDecrescentes.iml" filepath="$PROJECT_DIR$/ValoresDecrescentes/ValoresDecrescentes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValoresDigitadosVetores/ValoresDigitadosVetores.iml" filepath="$PROJECT_DIR$/ValoresDigitadosVetores/ValoresDigitadosVetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/VerificarAprovacaoNota/VerificarAprovacaoNota.iml" filepath="$PROJECT_DIR$/VerificarAprovacaoNota/VerificarAprovacaoNota.iml" />
     </modules>
   </component>
